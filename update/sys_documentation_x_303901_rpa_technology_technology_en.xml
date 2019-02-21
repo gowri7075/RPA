@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="technology" label="Technology" language="en" table="x_303901_rpa_technology">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>technology</element>
+            <help/>
+            <hint/>
+            <label>Technology</label>
+            <language>en</language>
+            <name>x_303901_rpa_technology</name>
+            <plural>Technologys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-20 12:51:25</sys_created_on>
+            <sys_id>3495c0bcdbf323001ee29fd2ca961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Technology</sys_name>
+            <sys_package display_value="RPA" source="x_303901_rpa">dc608434dbf323001ee29fd2ca9619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RPA">dc608434dbf323001ee29fd2ca9619ba</sys_scope>
+            <sys_update_name>sys_documentation_x_303901_rpa_technology_technology_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-20 12:51:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

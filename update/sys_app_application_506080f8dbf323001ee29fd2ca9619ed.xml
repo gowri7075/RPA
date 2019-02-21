@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>RPA</name>
+        <order/>
+        <roles>x_303901_rpa.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-20 12:28:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>506080f8dbf323001ee29fd2ca9619ed</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>RPA</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RPA" source="x_303901_rpa">dc608434dbf323001ee29fd2ca9619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RPA">dc608434dbf323001ee29fd2ca9619ba</sys_scope>
+        <sys_update_name>sys_app_application_506080f8dbf323001ee29fd2ca9619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-20 12:28:43</sys_updated_on>
+        <title>RPA</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
