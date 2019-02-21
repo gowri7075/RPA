@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Technology" max_length="40" name="x_303901_rpa_technology" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Technology" max_length="40" name="technology" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Technology" max_length="40" name="technology" type="string"/>
     </element>
 </database>
