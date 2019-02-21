@@ -3,8 +3,8 @@
     <element label="Rpa Table" max_length="40" name="x_303901_rpa_table" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Mobile No" mandatory="true" max_length="40" name="u_integer_2" type="phone_number_e164"/>
-        <element default="Technology" label="Technology" mandatory="true" max_length="32" name="u_reference_5" reference="x_303901_rpa_table" type="reference"/>
-        <element default="graduation" display="true" label="Graduation" mandatory="true" max_length="32" name="u_reference_6" reference="x_303901_rpa_table" reference_qual="u_reference_6ISNOTEMPTY^EQ" reference_qual_condition="u_reference_6ISNOTEMPTY^EQ" type="reference"/>
+        <element default="Technology" display="true" label="Technology" mandatory="true" max_length="32" name="u_reference_5" reference="x_303901_rpa_table" type="reference"/>
+        <element default="graduation" label="Graduation" mandatory="true" max_length="32" name="u_reference_6" reference="x_303901_rpa_table" reference_qual="u_reference_6ISNOTEMPTY^EQ" reference_qual_condition="u_reference_6ISNOTEMPTY^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Full Name" mandatory="true" max_length="40" name="u_string_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Address" mandatory="true" max_length="40" name="u_string_7" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Gmail" mandatory="true" max_length="255" name="u_string_full_utf8_3" type="string_full_utf8"/>
